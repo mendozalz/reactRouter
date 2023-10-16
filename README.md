@@ -6,7 +6,7 @@ Uso de React Router - PoC de JAB
   <img src="public\reacrRouter.gif" alt="Lección #9" />
 </p>
 
-Ver en [Netlify](https://react-router.netlify.app/)
+Ver en [Netlify](reactt-routerr.netlify.app)
 
 Retomando React con [JAB | video](https://www.youtube.com/watch?v=Ihn2vV0cbDQ&list=PLRM7PpbqqStKo-NiCuzuYwewZmd9b-EZ9&index=7)
 
